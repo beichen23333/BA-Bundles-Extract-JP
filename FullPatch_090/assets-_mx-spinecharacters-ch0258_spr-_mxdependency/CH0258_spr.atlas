@@ -1,0 +1,134 @@
+CH0258_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.98
+00_deuflat
+bounds:1883,279,194,137
+rotate:90
+01_normal
+bounds:1883,279,194,137
+rotate:90
+02_respond
+bounds:1796,748,194,144
+rotate:90
+03_smile
+bounds:1751,401,194,150
+rotate:90
+04_embarassed
+bounds:1756,1027,192,138
+rotate:90
+05_serious
+bounds:1832,518,196,130
+rotate:270
+06_depressed
+bounds:1813,898,194,141
+rotate:270
+07_normal 2
+bounds:220,655,194,138
+rotate:90
+08_eyeclose 2
+bounds:1846,1133,194,138
+rotate:270
+09_sarcastic
+bounds:2,1084,194,150
+rotate:90
+10_think
+bounds:1764,9,194,135
+rotate:90
+11_damaged
+bounds:1820,1354,194,144
+rotate:270
+12_fury shout 1
+bounds:1711,597,194,162
+rotate:90
+13_fury shout 2
+bounds:1698,1416,194,162
+rotate:90
+14_shout
+bounds:1725,1221,193,164
+rotate:90
+15_irritate 1
+bounds:1832,1850,196,140
+rotate:270
+16_irritate 2
+bounds:1787,1707,191,160
+rotate:90
+17_embarassed 2
+bounds:1469,880,193,138
+rotate:90
+18_embarassed 3
+bounds:2,116,216,167
+rotate:180
+19_shout 2
+bounds:1622,793,216,172
+rotate:90
+20_surprised 1
+bounds:1658,1596,193,166
+rotate:270
+21_surprised 2
+bounds:1842,1550,195,132
+rotate:270
+22_surprised 3
+bounds:1219,1874,216,172
+23_pure smile 1
+bounds:1502,524,216,170
+24_pure smile 2
+bounds:2,278,216,170
+25_smile 2
+bounds:1376,242,216,177
+26_calm smile
+bounds:1594,88,216,168
+rotate:90
+27_peaceful
+bounds:1285,421,216,174
+28_yawn
+bounds:219,450,211,178
+29_shy 1
+bounds:1437,1874,216,172
+30_shy 2
+bounds:2,536,216,176
+31_shy 3
+bounds:1213,597,216,172
+32_cry 1
+bounds:1594,306,216,162
+rotate:90
+33_cry 2
+bounds:1376,73,216,166
+34_cry 3
+bounds:1431,696,216,186
+35_difficult 1
+bounds:1158,105,216,172
+36_difficult 2
+bounds:940,2,216,172
+37_difficult 3
+bounds:1252,853,216,170
+38_trick 1
+bounds:2,714,216,177
+39_trick 2
+bounds:2,893,216,179
+CH0258(defualt)
+bounds:250,2,710,1082
+offsets:0,705,1146,1787
+rotate:90
+CH0258(defualt)_2
+bounds:2,443,905,1603
+offsets:241,0,1146,1787
+NP0198
+bounds:545,770,735,979
+offsets:0,808,846,1787
+NP0198_2
+bounds:1170,1011,626,827
+offsets:220,0,846,1787
+rotate:180
+eyeclose
+bounds:1759,205,194,137
+rotate:90
+fronthair
+bounds:942,1825,275,221
+halo 1
+bounds:509,1780,455,227
+halo 2
+bounds:1655,1849,197,150
+rotate:90
+halo 3
+bounds:889,741,144,111

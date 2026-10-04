@@ -1,0 +1,127 @@
+CH0241_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.2
+00_defualt
+bounds:640,165,238,155
+01_normal
+bounds:640,165,238,155
+02_respond
+bounds:399,228,238,157
+03_smile
+bounds:1118,159,238,152
+04_embarassed
+bounds:716,2,236,157
+05_serious
+bounds:1357,9,238,144
+06_depressed
+bounds:1797,203,238,154
+07_pout
+bounds:1357,155,236,152
+08_ sarcastic 1
+bounds:779,494,238,169
+09_ sarcastic 2
+bounds:401,387,240,166
+10_think
+bounds:2,509,241,155
+rotate:90
+11_fury
+bounds:1397,309,236,161
+12_fury shout 1
+bounds:1333,654,236,179
+13_fury shout 2
+bounds:855,665,238,179
+14_shout
+bounds:1394,835,238,184
+15_irritate 1
+bounds:239,252,236,160
+rotate:90
+16_irritate 2
+bounds:1251,479,233,173
+17_absurd
+bounds:1810,358,236,167
+18_embarassed 2
+bounds:1635,231,236,160
+rotate:90
+19_embarassed 3
+bounds:993,846,238,181
+20_embarassed 4
+bounds:562,555,217,199
+21_surprised 1
+bounds:1633,1006,236,184
+22_surprised 2
+bounds:1680,1192,277,157
+23_pure smile
+bounds:1633,821,235,184
+24_bitter smile
+bounds:643,322,232,170
+25_mean smile
+bounds:955,6,238,148
+26_confidence smile
+bounds:1486,469,236,168
+rotate:180
+27_calm smile 1
+bounds:1870,527,238,174
+rotate:90
+28_peaceful
+bounds:2,159,232,161
+29_yawn
+bounds:1560,1461,235,194
+30_shy 1
+bounds:1394,1156,238,182
+31_shy 2
+bounds:616,756,236,180
+32_shy 3
+bounds:1633,639,235,180
+33_cry 1
+bounds:2,322,235,166
+34_cry 2
+bounds:1797,1591,226,214
+rotate:90
+35_cry 3
+bounds:1797,1819,226,212
+rotate:90
+36_panic_normal
+bounds:476,14,239,149
+37_panic_respond
+bounds:1796,51,239,150
+38_panic_thingking
+bounds:235,76,239,150
+39_panic_fury
+bounds:876,326,236,161
+40_panic_fury shout 1
+bounds:1094,665,236,179
+41_panic_ fury shout 2
+bounds:1870,767,238,175
+rotate:270
+43_calm smile 2
+bounds:1320,1340,238,187
+43_calm smile 3
+bounds:161,490,238,176
+44_exciting 1
+bounds:1797,1351,239,190
+rotate:270
+45_exciting 2
+bounds:1019,489,230,174
+46_exciting 3
+bounds:1115,314,230,164
+CH0241
+bounds:2,667,720,1378
+offsets:0,1035,720,2413
+CH0241_1
+bounds:709,937,720,1108
+offsets:0,0,720,2413
+rotate:180
+eyeclose
+bounds:879,156,236,155
+fronthair
+bounds:1534,1731,314,260
+rotate:90
+halo 1
+bounds:1298,1527,518,262
+rotate:270
+halo 2
+bounds:1596,3,226,175
+rotate:90
+halo 3
+bounds:1872,1062,167,128

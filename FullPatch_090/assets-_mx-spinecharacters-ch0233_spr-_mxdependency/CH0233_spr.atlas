@@ -1,0 +1,55 @@
+CH0233_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.3
+00_defualt
+bounds:1682,235,267,205
+01_normal
+bounds:1682,235,267,205
+02_respond
+bounds:1779,860,267,211
+03_smile
+bounds:261,98,267,204
+04_embarassed
+bounds:1151,266,261,209
+05_serious
+bounds:1419,437,261,211
+06_depressed
+bounds:2,2,260,190
+rotate:270
+07_embarassed 2
+bounds:742,73,263,205
+08_hard
+bounds:1619,33,263,200
+09_mumble
+bounds:1007,46,267,198
+10_zone out
+bounds:1657,650,267,208
+11_satisfied
+bounds:1415,166,269,203
+rotate:90
+12_upset
+bounds:1153,477,264,209
+13_surprised
+bounds:1751,1581,267,218
+14_worried
+bounds:530,6,264,192
+rotate:90
+99_eyeclose
+bounds:1682,443,268,205
+CH0233
+bounds:2,687,1112,1872
+offsets:0,1034,1112,2906
+rotate:90
+CH0233_1
+bounds:2,245,559,1150
+offsets:255,0,1112,2906
+rotate:270
+flush
+bounds:309,789,207,85
+front hair
+bounds:2,811,308,190
+halo
+bounds:2,1648,698,151
+sweat 2
+bounds:2,1774,23,25
