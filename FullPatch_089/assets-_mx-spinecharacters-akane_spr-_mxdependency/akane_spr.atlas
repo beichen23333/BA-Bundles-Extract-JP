@@ -1,0 +1,49 @@
+akane_spr.png
+	size: 2048, 2048
+	filter: Linear, Linear
+00_default
+	bounds: 347, 463, 212, 152
+	offsets: 10, 10, 232, 172
+01_eyeclose
+	bounds: 1734, 1131, 210, 177
+	offsets: 10, 10, 230, 197
+02_nomal
+	bounds: 1496, 1499, 232, 172
+03_respond
+	bounds: 561, 465, 212, 156
+	offsets: 10, 10, 232, 176
+04_smile
+	bounds: 1828, 953, 210, 176
+	offsets: 10, 10, 230, 196
+05_embarassed
+	bounds: 493, 826, 213, 159
+	offsets: 10, 10, 233, 179
+06_serious
+	bounds: 775, 472, 212, 156
+	offsets: 10, 10, 232, 176
+07_depressed
+	bounds: 286, 808, 205, 177
+	offsets: 10, 10, 225, 197
+08
+	bounds: 1077, 1491, 214, 177
+	offsets: 10, 10, 234, 197
+akane
+	bounds: 899, 130, 1147, 1260
+	offsets: 1, 1050, 1193, 2310
+	rotate: 180
+akane_1
+	bounds: 2, 986, 1173, 1060
+	offsets: 20, 3, 1193, 2310
+bag
+	bounds: 974, 1669, 377, 1064
+	offsets: 3, 3, 380, 1067
+	rotate: 90
+bag_light
+	bounds: 2, 611, 374, 914
+	offsets: 0, 2, 376, 922
+	rotate: 90
+glass
+	bounds: 1293, 1408, 237, 89
+	offsets: 10, 10, 257, 109
+halo
+	bounds: 1730, 1310, 316, 371

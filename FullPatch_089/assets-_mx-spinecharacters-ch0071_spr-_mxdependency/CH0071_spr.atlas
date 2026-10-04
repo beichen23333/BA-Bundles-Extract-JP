@@ -1,0 +1,63 @@
+CH0071_spr.png
+size:2048,2048
+filter:Linear,Linear
+00_default
+bounds:2,464,232,165
+01_normal
+bounds:1750,501,232,165
+02_respond
+bounds:1730,668,232,165
+03_smile
+bounds:1680,835,232,165
+04_embarassed
+bounds:1516,1226,231,170
+05_serious
+bounds:935,428,231,164
+06_depressed
+bounds:1583,1683,232,280
+07
+bounds:1751,1338,234,168
+08
+bounds:702,437,231,164
+09
+bounds:1349,1683,232,280
+10_default eye on
+bounds:1814,1002,232,165
+11_normal eye on
+bounds:1814,1002,232,165
+12_respond eye on
+bounds:1580,1002,232,165
+13_embarassed eye on
+bounds:906,1253,231,170
+14_serious_eye_on
+bounds:469,446,231,164
+15
+bounds:2,1680,233,283
+16
+bounds:1751,1508,233,173
+17
+bounds:1749,1169,234,167
+18
+bounds:902,1425,234,168
+18_eye_on
+bounds:236,455,231,164
+19
+bounds:2,1510,234,168
+20
+bounds:1280,1398,233,283
+21
+bounds:1515,1398,234,283
+CH0071
+bounds:2,592,1576,1371
+offsets:0,0,1576,2200
+CH00713
+bounds:1038,2,1008,897
+offsets:207,1303,1576,2200
+rotate:180
+eyeclose
+bounds:909,1086,232,165
+front hair
+bounds:1817,1828,165,135
+offsets:0,0,216,139
+halo
+bounds:899,1576,449,387

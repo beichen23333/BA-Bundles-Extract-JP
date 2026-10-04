@@ -1,0 +1,54 @@
+CH0110_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.03
+00_defualt
+bounds:2,853,235,200
+01_normal
+bounds:464,356,235,177
+02_respond
+bounds:2,655,235,196
+03_smile
+bounds:1756,1809,273,196
+04_embarassed
+bounds:513,535,235,184
+05_serious
+bounds:2,27,235,162
+06_depressed
+bounds:2,191,233,178
+07_surprise
+bounds:1649,1196,235,202
+08_impatience 1
+bounds:1629,993,235,201
+09_impatience 2
+bounds:1100,1482,250,193
+10_expectation
+bounds:1481,1799,273,206
+11_discontent
+bounds:687,172,233,166
+12_tasty 1
+bounds:238,551,273,168
+13_tasty 2
+bounds:1687,822,273,169
+14_fright
+bounds:1756,1399,235,202
+15_embarassed 2
+bounds:2,464,224,190
+16_embarassed 3
+bounds:1756,1603,262,204
+17
+bounds:227,371,235,178
+18
+bounds:236,191,224,178
+CH0110(umika)
+bounds:2,721,1288,1284
+offsets:0,1302,1288,2586
+CH0110(umika)_01
+bounds:839,2,1207,1360
+offsets:0,0,1288,2586
+eyeclose
+bounds:462,177,224,177
+fronthair
+bounds:1449,1435,305,264
+halo
+bounds:1124,1673,371,332

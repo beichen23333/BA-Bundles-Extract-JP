@@ -1,0 +1,76 @@
+CH0137_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.2
+00_default
+bounds:350,1676,248,217
+01 normal
+bounds:1642,1469,248,208
+02_respond
+bounds:796,238,247,198
+03_smile
+bounds:1414,1682,253,211
+04_embarassed
+bounds:600,32,235,204
+04_sweat
+bounds:600,1862,28,31
+05_serious
+bounds:549,271,245,204
+06_depressed
+bounds:837,42,245,194
+06_drop shadow
+bounds:2,1660,348,233
+offsets:70,0,418,304
+08
+bounds:1556,844,252,200
+09
+bounds:1084,6,235,197
+10
+bounds:2,717,245,205
+10_eye light
+bounds:2,969,162,62
+10_tears
+bounds:137,1502,202,157
+11
+bounds:1669,1679,245,214
+12
+bounds:1660,1046,246,209
+12sweat 2
+bounds:630,1863,23,30
+13
+bounds:1664,1257,245,210
+CH0137
+bounds:1213,2,844,833
+offsets:396,1269,1662,2102
+rotate:90
+CH0137C
+bounds:2,415,1661,1478
+offsets:1,0,1662,2102
+Halo 1
+bounds:1084,1642,328,251
+offsets:0,3,328,254
+Halo 2
+bounds:1321,47,208,147
+offsets:0,3,209,150
+blush_02
+bounds:1810,858,175,56
+blush_03 1
+bounds:1810,858,175,56
+blush_03_color
+bounds:1413,708,280,134
+blush_04
+bounds:1122,1506,263,134
+blush_08
+bounds:1916,1666,227,128
+rotate:90
+blush_09
+bounds:1810,916,227,128
+blush_10
+bounds:2,619,193,96
+blush_13
+bounds:341,1615,194,59
+eyeclose
+bounds:1388,1474,252,206
+front_hair
+bounds:2,25,596,588
+offsets:0,1,596,589

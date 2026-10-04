@@ -1,0 +1,59 @@
+CH0060_spr.png
+size:4096,2048
+filter:Linear,Linear
+00_default
+bounds:1224,160,229,147
+01_normal
+bounds:3865,223,229,154
+02_respond
+bounds:1411,309,229,156
+03_smile
+bounds:2,198,229,152
+04_embarassed
+bounds:1637,522,229,166
+05_serious
+bounds:1777,201,229,152
+06_depressed
+bounds:231,352,229,156
+07
+bounds:462,233,229,154
+08
+bounds:3838,1406,229,166
+rotate:90
+09
+bounds:2857,205,229,152
+10
+bounds:347,1468,229,167
+CH0060
+bounds:2,2,1864,1633
+blush 1_00
+bounds:1455,179,284,128
+offsets:0,2,286,131
+blush 2_0
+bounds:3669,104,284,130
+offsets:0,0,286,131
+blush 3_1
+bounds:430,103,279,128
+offsets:0,1,279,129
+diorama_ocean_01
+bounds:1868,135,1500,1048
+rotate:90
+diorama_ocean_02
+bounds:2918,135,1500,1075
+offsets:0,1,1500,1076
+rotate:90
+eyeclose
+bounds:233,203,227,147
+face_shadow
+bounds:2,472,257,170
+offsets:0,0,259,172
+face_shadow 2
+bounds:1642,349,257,171
+offsets:2,0,259,172
+face_shadow 3
+bounds:1695,1441,285,194
+offsets:0,2,285,196
+front_hair
+bounds:2,1401,343,234
+halo
+bounds:2721,1371,288,264

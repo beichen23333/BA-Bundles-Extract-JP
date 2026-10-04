@@ -1,0 +1,91 @@
+CH0066_spr.png
+size:2048,2048
+filter:Linear,Linear
+00_defualt
+bounds:2,406,203,178
+01_normal
+bounds:1714,427,203,178
+02_respond
+bounds:1509,430,203,181
+03_smile 1
+bounds:1682,239,189,186
+04_embarassed 1
+bounds:1559,804,203,197
+05_serious 1
+bounds:2,230,203,173
+06_depressed 1
+bounds:1515,71,198,166
+07_embarassed 2
+bounds:1847,1402,199,206
+08_excuse 1
+bounds:1831,1003,203,197
+09_excuse 2
+bounds:1626,1003,203,197
+10_excuse 3
+bounds:207,219,190,184
+11_beg 1
+bounds:2,64,199,164
+12_beg 2
+bounds:796,147,203,163
+13_smile 2
+bounds:1676,1202,203,198
+14_smile 3
+bounds:1121,160,198,169
+15_upset 1
+bounds:207,405,201,179
+16_upset 2
+bounds:1873,222,203,171
+rotate:90
+17_upset 3
+bounds:2,590,203,183
+18_beware
+bounds:1001,4,203,154
+19_difficult 1
+bounds:207,586,199,186
+20_difficult 2
+bounds:1764,808,199,193
+21_difficult 3
+bounds:1491,613,199,189
+22_shout
+bounds:1764,607,190,199
+23_anger
+bounds:1479,252,201,176
+24_depressed 2
+bounds:359,2,203,153
+25_serious 2
+bounds:203,14,203,154
+rotate:90
+26_serious 3
+bounds:591,150,203,163
+27_bitter smile
+bounds:1891,1648,203,154
+rotate:90
+28_relaxed 1
+bounds:399,157,190,178
+28_relaxed 2
+bounds:1715,51,193,169
+CH0066
+bounds:497,303,539,1010
+offsets:410,1044,1170,2054
+rotate:270
+CH0066C
+bounds:1064,633,611,1218
+offsets:559,0,1170,2054
+blush_casual
+bounds:798,1765,196,86
+blush_defualt
+bounds:1649,1459,196,85
+blush_plus
+bounds:871,779,207,115
+diorama
+bounds:2,773,1118,1078
+offsets:0,0,1118,1079
+eyeclose
+bounds:1321,78,192,172
+offsets:3,3,198,178
+fronthair
+bounds:1651,1581,239,270
+offsets:0,0,240,270
+halo
+bounds:1307,1473,378,415
+rotate:270

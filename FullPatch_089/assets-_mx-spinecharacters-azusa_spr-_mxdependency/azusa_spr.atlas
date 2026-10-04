@@ -1,0 +1,49 @@
+azusa_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.2
+00_default
+bounds:1795,797,251,178
+01_normal
+bounds:1795,797,251,178
+02_respond
+bounds:450,883,251,181
+03_smile
+bounds:1651,1841,252,182
+04_embarrass
+bounds:400,1186,251,168
+05_serious
+bounds:2,290,250,175
+06_embarrassed
+bounds:125,467,248,152
+offsets:0,0,248,161
+07_embarrass 2
+bounds:275,310,233,166
+08_smile 2
+bounds:1168,1009,238,188
+Character Halo
+bounds:2,1045,396,383
+HairCover
+bounds:1408,946,263,116
+azusa_00
+bounds:340,151,1706,764
+offsets:318,744,2075,1508
+azusa_00_2
+bounds:2,386,776,631
+offsets:0,877,2075,1508
+rotate:90
+azusa_00_3
+bounds:1730,977,316,768
+offsets:1088,0,2075,1508
+azusa_00_4
+bounds:1214,2,435,832
+offsets:1640,649,2075,1508
+rotate:90
+azusa_01
+bounds:2,858,1832,1165
+offsets:30,0,1862,1165
+eyeclose
+bounds:409,703,236,178
+gas mask
+bounds:1408,1064,348,325
+offsets:17,0,365,325

@@ -1,0 +1,112 @@
+CH0092_spr.png
+size:4096,2048
+filter:Linear,Linear
+scale:1.12
+00_defualt
+bounds:3732,1066,234,220
+offsets:11,11,256,242
+rotate:90
+01_normal
+bounds:1005,394,234,195
+offsets:11,11,256,217
+02_respond
+bounds:70,585,232,206
+offsets:11,11,254,228
+03_smile
+bounds:3688,1302,228,226
+offsets:11,11,250,248
+rotate:90
+04_embarassed
+bounds:304,614,232,209
+offsets:11,11,254,231
+05_serious
+bounds:2,1662,231,184
+offsets:11,11,253,206
+06_depressed
+bounds:987,197,227,195
+offsets:11,11,249,217
+07_upset
+bounds:538,486,231,203
+offsets:11,11,253,225
+08_shout
+bounds:2,1078,232,215
+offsets:11,11,254,237
+09_shy 1
+bounds:3845,416,232,200
+offsets:11,11,254,222
+10_shy 2
+bounds:2,199,226,187
+offsets:11,11,248,209
+11_question
+bounds:3713,618,232,212
+offsets:11,11,254,234
+12_surprised
+bounds:3732,832,232,214
+offsets:11,11,254,236
+rotate:90
+13_calm smile 1
+bounds:1973,1672,226,174
+offsets:11,11,248,196
+14_calm smile 2
+bounds:2235,149,222,190
+offsets:11,11,244,212
+15_bitter_smile 1
+bounds:3814,219,228,195
+offsets:11,11,250,217
+16_bitter_smile 2
+bounds:237,211,227,195
+offsets:11,11,249,217
+17_excuse
+bounds:304,408,223,204
+offsets:11,11,245,226
+18_worry 1
+bounds:757,229,228,195
+offsets:11,11,250,217
+19_worry 2
+bounds:2535,576,228,208
+offsets:11,11,250,230
+20_inocent
+bounds:771,426,232,200
+offsets:11,11,254,222
+21_boring
+bounds:529,284,226,200
+offsets:11,11,248,222
+22_trick
+bounds:2212,1620,231,226
+offsets:11,11,253,248
+blush
+bounds:2692,1729,245,117
+offsets:11,11,267,139
+blush_plus
+bounds:2445,1729,245,117
+offsets:11,11,267,139
+diorama
+bounds:2,38,2538,1808
+offsets:0,31,2538,1839
+diorama2
+bounds:2,755,303,861
+offsets:845,867,2538,1839
+rotate:90
+eyeclose
+bounds:2,388,233,195
+offsets:11,11,255,217
+fronthair
+bounds:3582,1532,303,314
+offsets:11,11,325,336
+halo 1
+bounds:2743,415,213,183
+offsets:10,9,232,197
+halo 2
+bounds:763,565,565,473
+offsets:0,0,566,476
+nonomi_swimsuit
+bounds:2525,448,1205,1398
+offsets:0,1202,1205,2600
+rotate:180
+nonomi_swimsuit2
+bounds:2459,2,562,1384
+offsets:232,0,1205,2600
+rotate:270
+sweat
+bounds:235,1834,8,12
+offsets:11,11,30,34
