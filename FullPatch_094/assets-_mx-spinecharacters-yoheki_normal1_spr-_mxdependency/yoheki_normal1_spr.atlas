@@ -1,0 +1,17 @@
+yoheki_normal1_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.3
+halo
+bounds:994,1427,404,186
+mask_1
+bounds:1400,1432,294,181
+mask_2
+bounds:1696,1432,300,181
+yoheki_normal1
+bounds:663,2,1383,1344
+offsets:0,1160,1383,2504
+rotate:180
+yoheki_normal1_2
+bounds:2,294,991,1319
+offsets:113,0,1383,2504

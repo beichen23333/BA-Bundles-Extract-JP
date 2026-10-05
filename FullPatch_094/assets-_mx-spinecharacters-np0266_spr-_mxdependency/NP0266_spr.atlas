@@ -1,0 +1,16 @@
+NP0266_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.38
+NP0236
+bounds:2,214,1054,1474
+offsets:80,1152,1317,2626
+NP0236_01
+bounds:731,2,1315,1183
+offsets:0,1,1317,2626
+halo_01
+bounds:1465,1384,360,304
+offsets:0,6,360,312
+halo_02
+bounds:938,1197,527,491
+offsets:0,0,530,491

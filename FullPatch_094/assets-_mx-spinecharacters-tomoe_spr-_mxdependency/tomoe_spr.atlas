@@ -1,0 +1,47 @@
+tomoe_spr.png
+	size: 2048, 2048
+	filter: Linear, Linear
+defult
+	bounds: 1116, 989, 220, 141
+	offsets: 10, 10, 240, 161
+depressed
+	bounds: 1338, 956, 220, 137
+	offsets: 10, 10, 240, 157
+embarrass
+	bounds: 1427, 1897, 220, 149
+	offsets: 10, 10, 240, 169
+eyeclose
+	bounds: 249, 1240, 185, 143
+	offsets: 10, 10, 205, 163
+halo
+	bounds: 377, 188, 460, 434
+normal
+	bounds: 2, 1883, 240, 163
+object_face skin
+	bounds: 803, 109, 363, 427
+	offsets: 0, 0, 363, 428
+	rotate: 90
+respond
+	bounds: 436, 1237, 220, 147
+	offsets: 10, 10, 240, 167
+serious
+	bounds: 658, 1236, 220, 148
+	offsets: 10, 10, 240, 168
+smile
+	bounds: 1649, 1897, 219, 149
+	offsets: 10, 10, 239, 169
+tomoe 1
+	bounds: 2, 260, 1190, 1147
+	offsets: 0, 3, 1190, 1150
+	rotate: 270
+tomoe 2
+	bounds: 2, 1380, 1435, 666
+	offsets: 247, 993, 1682, 1659
+tomoe 3
+	bounds: 880, 1016, 871, 1147
+	offsets: 607, 0, 1682, 1659
+	rotate: 270
+tomoe 4
+	bounds: 792, 352, 608, 1254
+	offsets: 0, 216, 1682, 1659
+	rotate: 270

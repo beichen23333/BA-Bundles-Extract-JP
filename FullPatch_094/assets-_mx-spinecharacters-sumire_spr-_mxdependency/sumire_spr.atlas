@@ -1,0 +1,70 @@
+sumire_spr.png
+	size: 2048, 2048
+	filter: Linear, Linear
+00_default
+	bounds: 1536, 1714, 212, 154
+	offsets: 10, 10, 232, 174
+01_normal
+	bounds: 2, 1639, 232, 172
+	offsets: 0, 0, 232, 174
+02_respond
+	bounds: 1610, 1872, 211, 152
+	offsets: 10, 10, 231, 172
+03_smile
+	bounds: 1672, 1563, 214, 149
+	offsets: 10, 10, 234, 169
+04_embarrass
+	bounds: 752, 1692, 211, 165
+	offsets: 10, 10, 231, 185
+05_serious
+	bounds: 781, 1530, 209, 160
+	offsets: 10, 10, 229, 180
+06_depressed
+	bounds: 932, 1874, 210, 150
+	offsets: 10, 10, 230, 170
+07
+	bounds: 508, 1854, 209, 170
+	offsets: 10, 10, 229, 190
+08
+	bounds: 719, 1859, 211, 165
+	offsets: 10, 10, 231, 185
+09
+	bounds: 539, 1686, 211, 166
+	offsets: 10, 10, 231, 186
+10
+	bounds: 570, 1517, 209, 167
+	offsets: 10, 10, 229, 187
+eyeclose
+	bounds: 1396, 1870, 212, 154
+	offsets: 10, 10, 232, 174
+front_hair
+	bounds: 2, 117, 245, 152
+	offsets: 0, 2, 245, 154
+glass OFF
+	bounds: 2, 14, 466, 693
+	offsets: 1, 0, 473, 693
+	rotate: 90
+glass ON
+	bounds: 1432, 116, 473, 792
+	rotate: 180
+halo
+	bounds: 2, 1813, 411, 211
+	offsets: 10, 10, 431, 231
+sumire
+	bounds: 615, 2, 932, 801
+	offsets: 436, 2646, 2297, 3598
+	rotate: 90
+sumire_1
+	bounds: 1222, 1026, 697, 998
+	offsets: 1067, 1770, 1767, 2768
+	rotate: 180
+sumire_2
+	bounds: 2, 447, 1160, 572
+	offsets: 3, 1561, 1767, 2768
+sumire_3
+	bounds: 2, 950, 1442, 1074
+	offsets: 63, 571, 1767, 2768
+sumire_4
+	bounds: 1269, 261, 321, 976
+	offsets: 544, 3, 1414, 2214
+	rotate: 180

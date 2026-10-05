@@ -1,0 +1,59 @@
+shun_spr.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.93
+00_default
+	bounds: 1882, 1298, 248, 154
+	rotate: 90
+01_normal
+	bounds: 1882, 1548, 248, 154
+	rotate: 90
+02_respond
+	bounds: 1349, 439, 248, 162
+03_smile
+	bounds: 2, 467, 248, 162
+04_embarass
+	bounds: 923, 877, 248, 171
+05_serious
+	bounds: 1882, 799, 244, 136
+	rotate: 90
+06_depressed
+	bounds: 1894, 77, 248, 140
+	rotate: 90
+07
+	bounds: 1655, 162, 237, 163
+08_embrassed 2
+	bounds: 1096, 602, 251, 165
+09_sigh
+	bounds: 1349, 603, 251, 164
+10_exiting
+	bounds: 1594, 1870, 251, 176
+11_beg
+	bounds: 1882, 1045, 251, 146
+	rotate: 90
+12_bitter smile
+	bounds: 2, 307, 251, 158
+13_surprised
+	bounds: 1402, 168, 251, 157
+14_smile 2
+	bounds: 1149, 280, 251, 157
+Halo
+	bounds: 1620, 327, 426, 470
+	offsets: 2, 2, 430, 474
+eyeclose
+	bounds: 1847, 1798, 248, 154
+	rotate: 90
+fronthair
+	bounds: 2, 894, 219, 193
+	offsets: 2, 1, 222, 196
+shun_00
+	bounds: 2, 92, 1177, 679
+	offsets: 72, 772, 1278, 1453
+	rotate: 180
+shun_01
+	bounds: 2, 772, 1153, 1274
+	offsets: 0, 2, 1153, 1276
+shun_02
+	bounds: 1105, 768, 1278, 775
+	offsets: 0, 2, 1278, 1453
+	rotate: 270

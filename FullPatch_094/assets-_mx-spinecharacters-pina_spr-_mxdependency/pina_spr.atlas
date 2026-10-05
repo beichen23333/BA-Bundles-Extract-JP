@@ -1,0 +1,46 @@
+pina_spr.png
+	size: 2048, 2048
+	filter: Linear, Linear
+00_default
+	bounds: 2, 1623, 180, 169
+01_normal
+	bounds: 2, 1623, 180, 169
+02_respond
+	bounds: 610, 1144, 180, 166
+03_smile
+	bounds: 353, 1814, 180, 173
+04_embarrass
+	bounds: 2, 670, 160, 160
+05_serious
+	bounds: 617, 1312, 175, 172
+06_depressed
+	bounds: 2, 832, 174, 149
+07_mischief
+	bounds: 670, 988, 175, 154
+08_pity
+	bounds: 184, 1573, 175, 155
+Hair
+	bounds: 511, 269, 830, 1106
+	rotate: 90
+Halo
+	bounds: 419, 155, 461, 596
+	rotate: 90
+Halo_Blur
+	bounds: 1379, 817, 509, 615
+eyeclose
+	bounds: 535, 1818, 183, 169
+pina_00
+	bounds: 2, 767, 1463, 1220
+	offsets: 0, 0, 2132, 1220
+pina_01
+	bounds: 2, 431, 614, 1136
+	offsets: 0, 0, 1229, 1136
+	rotate: 180
+pina_02
+	bounds: 1399, 1230, 757, 521
+	offsets: 1375, 0, 2132, 1220
+	rotate: 90
+pina_03
+	bounds: 1391, 208, 689, 596
+	offsets: 540, 540, 1229, 1136
+	rotate: 270

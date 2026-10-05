@@ -1,0 +1,13 @@
+pmcdirector_spr.png
+size:2048,2048
+filter:Linear,Linear
+light
+bounds:2,1786,225,115
+rotate:90
+pmcdirector_1
+bounds:2,2,1463,2009
+pmcdirector_2
+bounds:1399,612,482,731
+rotate:180
+pmcdirector_3
+bounds:1351,1345,430,666

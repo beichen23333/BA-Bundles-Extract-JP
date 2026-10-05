@@ -1,0 +1,16 @@
+NP0242_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.25
+NP0242
+bounds:2,2,1115,2000
+offsets:0,0,1115,3253
+NP0242_C
+bounds:866,607,1006,1395
+offsets:109,1857,1115,3253
+rotate:180
+halo_1
+bounds:1509,145,465,339
+rotate:270
+halo_2
+bounds:1032,277,475,349

@@ -1,0 +1,31 @@
+shimiko_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.2
+0 Defalt
+bounds:1781,1615,223,197
+1 normal
+bounds:1781,1615,223,197
+2 respond
+bounds:1556,1613,223,199
+3 smile
+bounds:862,1609,222,203
+4 embarrass
+bounds:1781,1410,215,203
+5 serious
+bounds:760,1408,214,181
+6 shout
+bounds:1529,1219,214,193
+eyeclose
+bounds:1556,1414,221,197
+glasses
+bounds:976,1523,241,84
+halo
+bounds:590,1591,270,221
+shimiko
+bounds:2,450,1553,1362
+offsets:41,948,1594,2310
+shimikoC
+bounds:568,2,964,1478
+offsets:262,0,1594,2310
+rotate:270

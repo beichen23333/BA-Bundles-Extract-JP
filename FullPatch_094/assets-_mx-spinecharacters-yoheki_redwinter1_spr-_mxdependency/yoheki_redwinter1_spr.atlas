@@ -1,0 +1,17 @@
+yoheki_redwinter1_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.3
+halo
+bounds:983,1306,406,185
+mask_1
+bounds:1715,1125,293,182
+mask_2
+bounds:1583,1309,300,182
+yoheki_redwinter1
+bounds:663,2,1383,1325
+offsets:0,1180,1383,2505
+rotate:180
+yoheki_redwinter1_2
+bounds:2,179,1069,1312
+offsets:121,0,1383,2505

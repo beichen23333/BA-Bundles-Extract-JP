@@ -1,0 +1,43 @@
+serika_spr.png
+	size: 2048, 2048
+	filter: Linear, Linear
+00_default
+	bounds: 1127, 1531, 204, 174
+02_respond
+	bounds: 1127, 1531, 204, 174
+01_normal
+	bounds: 2, 1010, 196, 157
+03_smile
+	bounds: 1508, 1193, 196, 163
+04.embarrassed
+	bounds: 1526, 1530, 196, 175
+04_embarrassed
+	bounds: 1787, 1620, 220, 197
+05_serious
+	bounds: 2, 851, 191, 157
+06_shout
+	bounds: 1333, 1523, 191, 182
+07_
+	bounds: 1431, 1707, 354, 339
+08_
+	bounds: 1526, 1358, 194, 170
+09_
+	bounds: 1787, 1819, 258, 227
+10_
+	bounds: 1075, 1707, 354, 339
+11_
+	bounds: 1527, 1032, 196, 159
+12_
+	bounds: 1547, 874, 195, 156
+13_
+	bounds: 2, 1169, 198, 159
+eyeclose
+	bounds: 832, 1026, 198, 156
+halo
+	bounds: 2, 532, 457, 198
+serika
+	bounds: 2, 675, 1134, 1371
+	offsets: 42, 1232, 1176, 2603
+serika_1
+	bounds: 1032, 274, 1014, 1238
+	offsets: 0, 0, 1176, 2603
