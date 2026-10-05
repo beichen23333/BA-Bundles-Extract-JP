@@ -1,0 +1,17 @@
+NP0163_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.97
+NP0163
+bounds:1284,374,1668,451
+offsets:0,0,1668,1683
+rotate:90
+NP0163_1
+bounds:1449,2,597,408
+offsets:538,1275,1668,1683
+NP0163_2
+bounds:2,813,1333,1229
+offsets:173,186,1668,1683
+halo
+bounds:39,26,857,1266
+rotate:90

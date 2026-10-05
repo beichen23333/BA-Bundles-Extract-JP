@@ -1,0 +1,62 @@
+NP0168_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.4
+00_default
+bounds:982,479,263,221
+01_normal
+bounds:27,525,263,223
+02_respond
+bounds:1691,887,263,225
+03_smile
+bounds:1735,1373,311,258
+04_embarrass
+bounds:1236,46,238,218
+05_serious
+bounds:1247,266,252,213
+06_depressed
+bounds:1752,98,252,207
+07_serious2
+bounds:2,306,249,217
+08_gekota 1
+bounds:1014,235,242,220
+rotate:90
+09_gekota 2
+bounds:1783,1113,242,258
+10_gekota 3
+bounds:1388,860,301,258
+11_relax smile
+bounds:1470,1120,311,251
+12_dissatisfaction 1
+bounds:821,1018,249,213
+rotate:90
+13_dissatisfaction 2
+bounds:1501,95,249,210
+14_wink
+bounds:2,97,252,207
+15
+bounds:1743,307,228,246
+16
+bounds:899,12,228,221
+17
+bounds:1511,309,230,245
+18
+bounds:667,2,230,218
+Halo
+bounds:1420,555,472,304
+Halo_Blur
+bounds:1536,1515,483,316
+rotate:270
+R_hand_Weapon_OFF
+bounds:2,749,272,1249
+eyeclose
+bounds:1247,481,262,223
+front hair
+bounds:334,29,332,223
+mikoto
+bounds:782,701,792,1297
+offsets:30,1734,822,3031
+rotate:180
+mikoto_1
+bounds:275,216,737,1782
+offsets:0,0,822,3031

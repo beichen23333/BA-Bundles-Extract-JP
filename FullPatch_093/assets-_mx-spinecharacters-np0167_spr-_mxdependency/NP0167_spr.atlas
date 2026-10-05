@@ -1,0 +1,128 @@
+NP0167_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.2
+00_defualt
+bounds:1767,250,238,155
+01_normal
+bounds:1767,250,238,155
+02_respond
+bounds:483,261,238,157
+03_smile
+bounds:2,109,238,152
+04_embarassed
+bounds:956,89,236,157
+05_serious
+bounds:833,1724,238,144
+rotate:90
+06_depressed
+bounds:1483,251,238,154
+07_pout
+bounds:241,109,236,152
+08_ sarcastic 1
+bounds:1768,575,238,169
+09_ sarcastic 2
+bounds:120,429,240,166
+10_think
+bounds:240,263,241,155
+11_fury
+bounds:778,342,236,161
+12_fury shout 1
+bounds:1034,706,236,179
+13_fury shout 2
+bounds:1680,746,238,179
+14_shout
+bounds:1789,923,238,184
+rotate:180
+15_irritate 1
+bounds:1016,294,236,160
+rotate:90
+16_irritate 2
+bounds:1016,531,233,173
+17_absurd
+bounds:609,432,236,167
+rotate:90
+18_embarassed 2
+bounds:2,267,236,160
+19_embarassed 3
+bounds:1550,926,238,181
+rotate:180
+20_embarassed 4
+bounds:382,592,217,199
+rotate:180
+21_surprised 1
+bounds:1311,1071,236,184
+22_surprised 2
+bounds:1653,1109,277,157
+rotate:180
+23_pure smile
+bounds:1053,887,235,184
+24_bitter smile
+bounds:368,420,232,170
+25_mean smile
+bounds:1194,60,238,148
+26_confidence smile
+bounds:778,505,236,168
+27_calm smile 1
+bounds:1529,570,238,174
+28_peaceful
+bounds:723,179,232,161
+29_yawn
+bounds:1415,1378,235,194
+30_shy 1
+bounds:1072,1073,238,182
+31_shy 2
+bounds:1290,890,236,180
+32_shy 3
+bounds:1843,1272,235,180
+rotate:90
+33_cry 1
+bounds:1768,407,235,166
+34_cry 2
+bounds:1652,1508,226,214
+rotate:90
+35_cry 3
+bounds:1652,1736,226,212
+rotate:90
+36_panic_normal
+bounds:1724,100,239,149
+37_panic_respond
+bounds:1483,100,239,150
+38_panic_thingking
+bounds:480,108,239,150
+39_panic_fury
+bounds:1505,407,236,161
+40_panic_fury shout 1
+bounds:1290,709,236,179
+41_panic_ fury shout 2
+bounds:121,597,238,175
+43_calm smile 2
+bounds:1175,1257,238,187
+43_calm smile 3
+bounds:1867,1724,238,176
+rotate:270
+44_exciting 1
+bounds:1652,1268,239,190
+rotate:270
+45_exciting 2
+bounds:1273,533,230,174
+46_exciting 3
+bounds:1251,367,230,164
+NP0167
+bounds:2,773,641,1189
+offsets:23,1186,664,2375
+NP0167_1
+bounds:534,668,625,1294
+offsets:0,0,664,2375
+eyeclose
+bounds:1178,209,236,155
+fronthair
+bounds:1389,1648,314,260
+rotate:90
+halo 1
+bounds:1153,1444,518,262
+rotate:270
+halo 2
+bounds:705,2,226,175
+halo 3
+bounds:1868,1595,167,128

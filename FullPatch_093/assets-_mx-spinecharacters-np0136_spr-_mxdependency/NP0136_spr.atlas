@@ -1,0 +1,11 @@
+NP0136_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.25
+NP0136
+bounds:871,2,1194,1175
+offsets:0,974,1194,2149
+rotate:90
+NP0136_2
+bounds:2,953,1194,1037
+offsets:0,0,1194,2149

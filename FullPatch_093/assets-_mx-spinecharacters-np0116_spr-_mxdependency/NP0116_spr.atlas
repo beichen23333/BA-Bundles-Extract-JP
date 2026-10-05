@@ -1,0 +1,12 @@
+NP0116_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.1
+NP0116
+bounds:850,324,1165,1287
+offsets:0,1559,1165,2846
+NP01167
+bounds:2,2,903,1609
+offsets:178,0,1165,2846
+eye light
+bounds:2,1558,51,53

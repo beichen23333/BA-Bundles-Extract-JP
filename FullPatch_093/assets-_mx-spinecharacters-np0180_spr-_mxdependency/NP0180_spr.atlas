@@ -1,0 +1,14 @@
+NP0180_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.2
+NP0180
+bounds:2,174,983,1775
+offsets:0,1635,983,3410
+NP01803
+bounds:981,272,795,1677
+offsets:171,0,983,3410
+rotate:180
+hat
+bounds:1050,2,757,356
+rotate:180

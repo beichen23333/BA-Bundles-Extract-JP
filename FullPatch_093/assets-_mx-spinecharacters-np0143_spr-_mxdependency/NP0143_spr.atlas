@@ -1,0 +1,13 @@
+NP0143_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.4
+NP0143
+bounds:888,2,1158,1543
+offsets:0,0,1235,3039
+rotate:180
+NP01434
+bounds:2,321,1112,1549
+offsets:123,1490,1235,3039
+halo
+bounds:1114,1586,465,284

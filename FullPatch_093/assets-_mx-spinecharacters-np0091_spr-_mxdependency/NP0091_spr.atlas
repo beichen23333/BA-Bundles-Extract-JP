@@ -1,0 +1,49 @@
+NP0091_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.84
+00_defualt_1
+bounds:1265,271,617,646
+offsets:0,2,617,648
+rotate:270
+00_defualt_2
+bounds:1645,923,284,425
+offsets:0,0,286,427
+01_defualt_2_same source
+bounds:1645,923,284,425
+offsets:0,0,286,427
+00_defualt_3
+bounds:2,188,307,416
+rotate:90
+01_defualt_3_same source
+bounds:2,188,307,416
+rotate:90
+01_defualt_1_same source
+bounds:785,33,617,648
+02_defualt_1_same source
+bounds:996,670,617,648
+rotate:180
+02_defualt_2_same source
+bounds:1372,2,286,425
+offsets:0,0,286,427
+rotate:180
+02_defualt_3_same source
+bounds:391,85,305,414
+offsets:2,2,307,416
+rotate:90
+02_light on_effect_1
+bounds:1652,1323,329,329
+offsets:0,0,330,331
+02_light on_effect_2
+bounds:1058,1320,592,669
+02_light on_effect_3
+bounds:2,39,293,388
+rotate:90
+02_light on_effect_4
+bounds:1628,147,263,418
+offsets:2,0,265,418
+rotate:90
+NP0091
+bounds:2,391,1054,1598
+eyeclose
+bounds:1652,1654,276,335

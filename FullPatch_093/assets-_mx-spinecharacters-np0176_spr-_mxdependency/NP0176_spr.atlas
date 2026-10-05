@@ -1,0 +1,61 @@
+NP0176_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.02
+00_default
+bounds:679,401,255,227
+01_normal
+bounds:679,401,255,227
+02_respond
+bounds:679,174,255,225
+rotate:180
+03_smile
+bounds:2,1241,256,234
+04_embarassed
+bounds:2,1714,255,270
+05_serious
+bounds:2,121,255,224
+06_shout
+bounds:421,149,255,224
+07_calm smile 1
+bounds:2,1477,255,235
+08_calm smile 2
+bounds:757,1483,256,235
+09_calm smile 3
+bounds:1274,1749,256,235
+10_inocent
+bounds:1451,217,256,226
+11_worry
+bounds:1790,221,256,226
+12_bitter smile 1
+bounds:936,446,255,227
+13_bitter smile 2
+bounds:1193,240,256,226
+14_excuse
+bounds:758,1720,256,264
+15_boring
+bounds:1016,1742,256,242
+16_trick 1
+bounds:1164,15,256,223
+17_trick 2
+bounds:163,347,256,226
+18_disappointed 1
+bounds:936,188,255,226
+rotate:90
+19_disappointed 2
+bounds:421,375,256,226
+NP0176
+bounds:2,563,1470,1421
+offsets:0,0,1470,2348
+NP01763
+bounds:997,443,1012,1049
+offsets:60,1299,1470,2348
+rotate:90
+eyeclose
+bounds:1193,468,256,227
+halo 1
+bounds:1422,32,219,183
+halo 2
+bounds:1473,1557,546,427
+object_fronthair
+bounds:1709,2,281,217

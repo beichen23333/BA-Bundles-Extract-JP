@@ -1,0 +1,37 @@
+NP0195_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.2
+NP01933
+bounds:2,88,532,1040
+offsets:834,0,1700,2664
+NP0195
+bounds:2,2,1700,1966
+offsets:0,698,1700,2664
+default
+bounds:496,379,246,202
+normal
+bounds:496,379,246,202
+depressed
+bounds:1704,1161,250,212
+embarassed
+bounds:1685,957,250,202
+emo_01
+bounds:1593,549,246,202
+eye close
+bounds:1639,753,246,202
+halo1
+bounds:879,1808,204,160
+halo2
+bounds:1127,1464,504,382
+rotate:270
+obj_front hair
+bounds:1511,1583,385,317
+rotate:90
+respond
+bounds:1347,347,245,200
+serious
+bounds:1779,1593,245,227
+rotate:90
+smile
+bounds:1733,1375,250,216

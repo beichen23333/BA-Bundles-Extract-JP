@@ -1,0 +1,12 @@
+NP0104_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.26
+NP0104
+bounds:2,2,888,1982
+offsets:231,0,1207,3447
+NP01045
+bounds:824,399,1207,1585
+offsets:0,1862,1207,3447
+eye light
+bounds:876,1901,53,83

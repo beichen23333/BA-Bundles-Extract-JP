@@ -1,0 +1,9 @@
+NP0122_spr.png
+size:512,512
+filter:Linear,Linear
+scale:1.3
+NP0122
+bounds:2,176,424,260
+light
+bounds:2,2,172,173
+rotate:90

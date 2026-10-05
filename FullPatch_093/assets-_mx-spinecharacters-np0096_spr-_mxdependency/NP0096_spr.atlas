@@ -1,0 +1,17 @@
+NP0096_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.95
+NP0096
+bounds:2,874,1189,1167
+offsets:0,0,1189,2652
+NP00967
+bounds:317,2,1189,1115
+offsets:0,1537,1189,2652
+rotate:90
+NP00968
+bounds:1416,852,1189,536
+offsets:0,1070,1189,2652
+rotate:270
+light
+bounds:611,1922,153,119

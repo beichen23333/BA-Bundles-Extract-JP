@@ -1,0 +1,11 @@
+NP0094_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:2.5
+00_default
+bounds:2,1662,473,95
+01_depressed
+bounds:2,1510,543,150
+NP0094
+bounds:2,2,1755,1973
+rotate:90

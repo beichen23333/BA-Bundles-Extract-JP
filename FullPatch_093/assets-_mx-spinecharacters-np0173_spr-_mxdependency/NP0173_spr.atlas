@@ -1,0 +1,78 @@
+NP0173_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.28
+00_defualt
+bounds:470,142,232,204
+01_normal
+bounds:470,142,232,204
+02_respond
+bounds:1005,307,232,205
+03_smile
+bounds:240,474,236,214
+04_embarassed
+bounds:704,2,232,196
+05_serious
+bounds:1708,6,233,191
+06_depressed
+bounds:1473,6,233,191
+07_normal 2
+bounds:1239,175,232,204
+08_eyeclose 2
+bounds:1715,199,232,204
+09_sarcatic
+bounds:2,489,236,214
+10_think
+bounds:946,104,232,201
+11_serious 2
+bounds:236,34,232,196
+rotate:90
+12_difficult 1
+bounds:1009,514,236,214
+13_difficult 2
+bounds:533,556,236,214
+14_difficult 3
+bounds:478,348,232,206
+15_shy 1
+bounds:1426,589,236,214
+16_shy 2
+bounds:771,619,236,214
+17_shout
+bounds:1664,405,236,212
+18_embarrassed 2
+bounds:2,988,232,209
+rotate:90
+19_calm smile 1
+bounds:1481,199,232,204
+20_calm smile 2
+bounds:712,200,232,204
+21_smlie 2
+bounds:1782,835,236,219
+22_smlie 3
+bounds:771,406,232,211
+23_peaceful
+bounds:236,268,232,204
+24_confident smile
+bounds:2,70,232,196
+25_yarn
+bounds:2,1222,236,220
+26_trick 1
+bounds:1247,381,232,206
+27_trick 2
+bounds:1755,619,236,214
+NP0173_defualt
+bounds:2,690,1039,1341
+offsets:4,1234,1043,2575
+NP0173_defualt2
+bounds:976,729,992,1302
+offsets:0,0,1043,2575
+rotate:180
+eyeclose
+bounds:2,283,232,204
+fronthair
+bounds:1573,1056,338,233
+halo_1
+bounds:1633,1291,412,257
+rotate:90
+nose_cover
+bounds:1948,1975,49,56

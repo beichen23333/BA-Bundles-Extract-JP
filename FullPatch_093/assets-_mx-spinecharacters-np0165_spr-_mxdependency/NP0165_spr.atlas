@@ -1,0 +1,15 @@
+NP0165_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.1
+NP0165
+bounds:2,600,1249,1258
+offsets:0,1072,1354,2330
+NP0165_1
+bounds:1037,1384,474,812
+offsets:880,1064,1354,2330
+rotate:90
+NP0165_2
+bounds:1087,2,959,1210
+offsets:44,0,1354,2330
+rotate:180

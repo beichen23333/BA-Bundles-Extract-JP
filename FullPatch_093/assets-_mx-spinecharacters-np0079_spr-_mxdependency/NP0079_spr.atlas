@@ -1,0 +1,53 @@
+NP0079_spr.png
+size:4096,2048
+filter:Linear,Linear
+scale:0.99
+00_default
+bounds:3205,1886,191,141
+01_normal
+bounds:3205,1886,191,141
+02_respond
+bounds:3398,1887,192,140
+03_smile
+bounds:3010,1887,193,140
+04_embrassed
+bounds:3592,1889,194,138
+05_serious
+bounds:2509,1871,188,156
+06_depressed
+bounds:3855,1709,188,131
+NP0079_1
+bounds:2,322,2142,1327
+offsets:487,0,3011,3059
+NP0079_12
+bounds:1224,2,2629,1803
+offsets:0,1256,3011,3059
+NP0079_13
+bounds:2,1572,455,2141
+offsets:2556,664,3011,3059
+rotate:90
+NP0079_2
+bounds:2,1584,113,275
+offsets:308,1490,555,1765
+eyeclose
+bounds:3788,1842,185,141
+rotate:90
+halo 1
+bounds:1543,1939,103,88
+halo 1_glow
+bounds:3931,1900,127,110
+rotate:90
+halo 2
+bounds:2263,1836,244,191
+halo 2_glow
+bounds:1997,1811,264,216
+halo 3
+bounds:2,724,325,277
+halo 3_glow
+bounds:787,1414,344,299
+headgear_base
+bounds:2,355,316,367
+headgear_down
+bounds:1677,1859,277,168
+headgear_open
+bounds:2712,1789,296,238
