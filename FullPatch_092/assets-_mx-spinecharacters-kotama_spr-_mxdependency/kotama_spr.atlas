@@ -1,0 +1,35 @@
+kotama_spr.png
+	size: 2048, 2048
+	filter: Linear, Linear
+00_Default
+	bounds: 1751, 682, 235, 173
+01_Normal
+	bounds: 1751, 682, 235, 173
+00_Eyeclose
+	bounds: 1514, 689, 235, 173
+02_respond
+	bounds: 1024, 1127, 234, 179
+03_Smile
+	bounds: 1055, 1308, 234, 181
+04_Embarass
+	bounds: 2, 612, 230, 171
+05_Serious
+	bounds: 234, 546, 230, 168
+06_Shout
+	bounds: 1282, 707, 230, 180
+Glasses
+	bounds: 1233, 1876, 239, 110
+	offsets: 0, 0, 241, 113
+Halo
+	bounds: 2, 716, 449, 495
+	offsets: 3, 0, 453, 496
+kotama
+	bounds: 2, 711, 1247, 1275
+	offsets: 0, 1283, 1250, 2558
+kotama_1
+	bounds: 1250, 856, 1130, 565
+	offsets: 56, 744, 1250, 2558
+	rotate: 270
+kotama_2
+	bounds: 453, 276, 836, 810
+	offsets: 101, 4, 1250, 2558

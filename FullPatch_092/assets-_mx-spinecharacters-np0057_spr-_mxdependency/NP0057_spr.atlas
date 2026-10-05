@@ -1,0 +1,36 @@
+NP0057_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.35
+00_default
+bounds:1337,457,257,213
+02_respond
+bounds:1337,457,257,213
+01_normal
+bounds:1362,205,257,211
+03_smile
+bounds:1725,890,261,221
+rotate:90
+04_embarassed
+bounds:1725,631,257,213
+rotate:90
+05_serious
+bounds:1621,2,251,207
+06_depressed
+bounds:1621,211,254,205
+07
+bounds:1717,1153,257,225
+rotate:90
+NP0057
+bounds:2,11,807,1399
+offsets:0,1250,807,2649
+NP0057C
+bounds:708,65,678,1345
+offsets:103,0,807,2649
+eye close
+bounds:1596,418,257,211
+front hair
+bounds:1360,672,363,316
+halo
+bounds:1346,990,420,369
+rotate:90

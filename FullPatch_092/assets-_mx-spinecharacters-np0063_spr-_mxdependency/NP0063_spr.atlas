@@ -1,0 +1,137 @@
+NP0063_spr.png
+size:4096,2048
+filter:Linear,Linear
+scale:1.3
+00_defualt
+bounds:825,162,246,250
+offsets:13,13,272,276
+rotate:90
+00_eyeclose
+bounds:3527,40,242,220
+offsets:13,13,268,246
+01_normal
+bounds:2190,2,262,235
+offsets:0,6,272,246
+02_respond
+bounds:2,32,238,223
+offsets:13,12,264,248
+03_smile
+bounds:3275,158,238,250
+offsets:13,13,264,276
+rotate:90
+04_embarassed
+bounds:3793,1447,246,259
+offsets:13,13,272,285
+05_serious
+bounds:3613,700,247,190
+offsets:13,13,273,216
+06_depressed
+bounds:242,44,245,202
+offsets:13,12,270,227
+07_difficult 1
+bounds:1514,105,241,241
+offsets:12,13,265,267
+08_difficult 2
+bounds:2201,244,246,250
+offsets:12,13,270,276
+rotate:90
+09_difficult 3
+bounds:531,91,245,223
+offsets:13,12,270,248
+10_shy 1
+bounds:332,1016,246,234
+offsets:13,13,272,260
+11_shy 2
+bounds:3856,1199,246,233
+offsets:13,13,272,259
+rotate:90
+12_shy 3
+bounds:3852,52,242,224
+offsets:13,13,268,250
+13_shout 1
+bounds:1077,87,223,244
+offsets:13,12,248,269
+rotate:90
+14_shout 2
+bounds:2701,53,245,220
+offsets:13,13,270,246
+15_calm smile
+bounds:2453,53,246,220
+offsets:13,13,272,246
+16_trick 1
+bounds:3865,952,245,223
+offsets:13,12,270,248
+rotate:90
+17_trick 2
+bounds:2617,275,247,251
+offsets:13,13,273,277
+18_boring 1
+bounds:2,406,241,263
+offsets:13,12,267,287
+19_boring 2
+bounds:1077,312,241,259
+offsets:13,13,267,285
+20_peaceful
+bounds:3031,105,242,232
+offsets:13,12,268,256
+21_sleep
+bounds:1957,105,242,241
+offsets:13,13,268,267
+blush
+bounds:778,33,291,127
+offsets:13,13,317,153
+blush_plus
+bounds:328,1410,304,142
+offsets:13,13,330,168
+rotate:90
+diorama
+bounds:472,491,2241,1529
+front hair
+bounds:3625,1708,336,312
+offsets:12,13,360,338
+fx
+bounds:2537,603,530,509
+offsets:0,818,1912,1333
+fx2
+bounds:1870,413,379,441
+offsets:228,371,1912,1333
+fx3
+bounds:2,1216,538,673
+offsets:574,3,1912,1333
+fx4
+bounds:1684,315,516,275
+offsets:1032,179,1912,1333
+fx5
+bounds:2,1854,745,166
+offsets:1161,15,1912,1333
+halo 1
+bounds:2365,1900,182,120
+offsets:13,13,208,146
+halo 2
+bounds:154,967,248,160
+offsets:13,13,274,186
+rotate:90
+halo 3
+bounds:3526,261,568,272
+offsets:10,5,589,286
+hoshino_swim suit_robber
+bounds:186,247,1229,966
+offsets:708,1248,1937,2370
+rotate:180
+hoshino_swim suit_robber2
+bounds:2573,575,1445,1291
+offsets:15,738,1937,2370
+rotate:90
+hoshino_swim suit_robber3
+bounds:2866,309,514,1228
+offsets:918,0,1937,2370
+rotate:90
+hoshino_swim suit_robber4
+bounds:2,670,352,581
+offsets:686,231,1937,2370
+mask
+bounds:1320,329,528,711
+offsets:5,4,538,719
+sunglasses_face_2
+bounds:2628,559,377,156
+offsets:5,3,389,165

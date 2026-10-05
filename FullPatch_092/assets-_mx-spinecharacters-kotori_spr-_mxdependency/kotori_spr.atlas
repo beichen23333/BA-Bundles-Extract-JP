@@ -1,0 +1,40 @@
+kotori_spr.png
+	size: 2048, 2048
+	filter: Linear, Linear
+00_default
+	bounds: 1576, 845, 299, 254
+	offsets: 10, 10, 319, 274
+02_respond
+	bounds: 1576, 845, 299, 254
+	offsets: 10, 10, 319, 274
+01_nomal
+	bounds: 1275, 890, 299, 254
+	offsets: 10, 10, 319, 274
+03_smile
+	bounds: 974, 899, 299, 254
+	offsets: 10, 10, 319, 274
+04_embarrass
+	bounds: 1748, 1101, 299, 254
+	offsets: 10, 10, 319, 274
+	rotate: 90
+05_serious
+	bounds: 1447, 1146, 299, 254
+	offsets: 10, 10, 319, 274
+06_shout
+	bounds: 1696, 1402, 299, 254
+	offsets: 10, 10, 319, 274
+	rotate: 90
+eyeclose
+	bounds: 1703, 1703, 299, 254
+	offsets: 10, 10, 319, 274
+	rotate: 90
+halo
+	bounds: 679, 702, 319, 295
+	offsets: 4, 3, 323, 298
+	rotate: 180
+kotlin
+	bounds: 707, 1154, 995, 848
+	offsets: 0, 1030, 1052, 1878
+kotlin_1
+	bounds: 2, 969, 998, 1033
+	offsets: 54, 0, 1052, 1878

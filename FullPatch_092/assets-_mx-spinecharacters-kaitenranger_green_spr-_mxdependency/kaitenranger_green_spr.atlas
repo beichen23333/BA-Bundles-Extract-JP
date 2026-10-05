@@ -1,0 +1,9 @@
+kaitenranger_green_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.1
+halo
+bounds:1638,1556,436,146
+rotate:90
+kaitenranger_green
+bounds:2,2,1634,1990

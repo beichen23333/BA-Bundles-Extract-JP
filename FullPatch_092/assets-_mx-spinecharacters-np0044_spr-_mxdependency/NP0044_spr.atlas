@@ -1,0 +1,73 @@
+NP0044_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.15
+00_default
+bounds:1632,531,327,260
+offsets:246,0,573,260
+02_respond
+bounds:1299,561,332,259
+offsets:241,0,573,259
+03_smile
+bounds:2,109,292,267
+04_embarassed
+bounds:1672,1355,311,309
+offsets:262,0,573,309
+rotate:270
+05_serious
+bounds:263,379,319,256
+offsets:254,0,573,256
+06_shout
+bounds:1679,1098,348,256
+offsets:225,0,573,256
+07_calm smile 1
+bounds:1274,822,326,269
+offsets:247,0,573,269
+08_calm smile 2
+bounds:1485,260,292,269
+09_calm smile 3
+bounds:1191,290,292,269
+10_inocent
+bounds:558,22,292,260
+11_worry
+bounds:1171,28,292,260
+12_bitter smile 1
+bounds:1324,1093,354,261
+offsets:219,0,573,261
+13_bitter smile 2
+bounds:877,40,292,260
+14_excuse
+bounds:1679,793,292,302
+15_boring
+bounds:583,284,292,277
+16_trick 1
+bounds:1465,2,292,256
+17_trick 2
+bounds:296,84,292,260
+rotate:90
+18_disappointed 1
+bounds:877,302,313,259
+offsets:260,0,573,259
+19_disappointed 2
+bounds:1779,237,292,260
+rotate:90
+NP0044
+bounds:2,635,995,1364
+offsets:0,1270,995,2634
+NP0044C
+bounds:780,562,571,1437
+offsets:67,0,995,2634
+eyeclose22
+bounds:2,423,327,260
+offsets:246,0,573,260
+rotate:90
+halo 1
+bounds:1651,1790,252,209
+halo 2
+bounds:1341,1380,619,482
+offsets:0,3,620,485
+rotate:90
+object_fronthair
+bounds:857,1678,321,171
+offsets:0,163,321,334
+rotate:90

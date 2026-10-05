@@ -1,0 +1,57 @@
+NP0020_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.15
+00_default
+bounds:1332,808,240,170
+01_normal
+bounds:1332,808,240,170
+02_respond
+bounds:1724,1545,240,174
+03_smile
+bounds:1804,977,242,175
+04_embarrass
+bounds:1242,645,240,161
+05_serious
+bounds:1804,807,239,168
+06_embarrassed
+bounds:1803,651,238,154
+07_embarrass 2
+bounds:1717,490,223,159
+08_smile 2
+bounds:1574,912,228,181
+Character Halo
+bounds:288,757,380,367
+HairCover
+bounds:2,1565,252,112
+azusa
+bounds:2,614,1882,1410
+offsets:224,1130,2106,2540
+azusaC
+bounds:2,2,1945,610
+offsets:0,667,2106,2540
+rotate:180
+azusaC1
+bounds:1478,1736,76,74
+offsets:445,1565,2106,2540
+azusaC2
+bounds:1545,1769,87,78
+offsets:1914,1346,2106,2540
+azusaC3
+bounds:1946,1733,100,172
+offsets:1908,1088,2106,2540
+azusaC4
+bounds:1929,1951,97,73
+offsets:1769,740,2106,2540
+azusaC5
+bounds:2,1786,115,86
+offsets:1550,604,2106,2540
+azusaC6
+bounds:2,640,286,739
+offsets:1054,0,2106,2540
+eyeclose
+bounds:1574,740,227,170
+gas mask
+bounds:1634,1712,333,312
+offsets:17,0,350,312
+rotate:180

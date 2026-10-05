@@ -1,0 +1,42 @@
+mutsuki_spr.png
+	size: 2048, 2048
+	filter: Linear, Linear
+00_default
+	bounds: 1607, 1699, 240, 171
+01_normal
+	bounds: 2, 1699, 240, 171
+02_respond
+	bounds: 1783, 1872, 240, 174
+03_smile
+	bounds: 1486, 1515, 223, 182
+04_embarassed
+	bounds: 2, 1872, 240, 174
+05_serious
+	bounds: 489, 780, 240, 152
+06_depressed
+	bounds: 244, 786, 233, 139
+07
+	bounds: 436, 1903, 240, 143
+08
+	bounds: 2, 891, 240, 160
+09
+	bounds: 731, 847, 240, 156
+10
+	bounds: 1547, 1347, 240, 166
+11
+	bounds: 2, 1215, 240, 164
+12
+	bounds: 2, 1053, 240, 160
+13
+	bounds: 1365, 1708, 240, 171
+eye close
+	bounds: 1711, 1526, 233, 171
+halo
+	bounds: 1347, 1881, 434, 165
+mutsuki
+	bounds: 407, 42, 1639, 1391
+	offsets: 37, 790, 1676, 2181
+	rotate: 180
+mutsuki_1
+	bounds: 2, 926, 1578, 1120
+	offsets: 0, 0, 1676, 2181

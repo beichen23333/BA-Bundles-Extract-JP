@@ -1,0 +1,122 @@
+hoshino_swimsuit_spr.png
+size:4096,2048
+filter:Linear,Linear
+scale:1.25
+00_defualt
+bounds:2,421,237,241
+offsets:12,12,261,265
+00_eyeclose
+bounds:1989,112,235,212
+offsets:12,12,259,236
+01_normal
+bounds:1940,939,244,226
+offsets:7,6,261,236
+02_respond
+bounds:479,97,231,215
+offsets:12,12,255,239
+03_smile
+bounds:3863,1601,231,241
+offsets:12,12,255,265
+04_embarassed
+bounds:3510,1193,237,249
+offsets:12,13,261,274
+05_serious
+bounds:168,939,239,182
+offsets:12,12,263,206
+06_depressed
+bounds:3361,1691,236,195
+offsets:12,12,260,219
+07_difficult 1
+bounds:2053,326,232,234
+offsets:12,12,256,258
+08_difficult 2
+bounds:372,502,237,242
+offsets:12,12,261,266
+09_difficult 3
+bounds:1409,230,236,215
+offsets:12,12,260,239
+10_shy 1
+bounds:611,314,237,226
+offsets:12,12,261,250
+11_shy 2
+bounds:1750,312,237,225
+offsets:12,12,261,249
+12_shy 3
+bounds:850,294,235,216
+offsets:12,12,259,240
+13_shout 1
+bounds:2,182,214,237
+offsets:12,12,238,261
+14_shout 2
+bounds:3858,115,236,212
+offsets:12,12,260,236
+15_calm smile
+bounds:2539,174,237,212
+offsets:12,12,261,236
+16_trick 1
+bounds:241,285,236,215
+offsets:12,12,260,239
+17_trick 2
+bounds:936,512,237,244
+offsets:12,12,261,268
+18_boring 1
+bounds:3268,950,232,254
+offsets:12,13,256,279
+19_boring 2
+bounds:702,542,232,251
+offsets:12,13,256,276
+20_peaceful
+bounds:1175,308,232,222
+offsets:12,12,256,246
+21_sleep
+bounds:2487,388,235,234
+offsets:12,12,259,258
+blush
+bounds:3813,1249,281,122
+offsets:12,13,306,148
+blush_plus
+bounds:3076,811,292,137
+offsets:12,13,316,163
+diorama 1
+bounds:2,539,2156,1470
+front hair
+bounds:3037,1708,322,301
+offsets:12,12,346,325
+fx
+bounds:1240,340,508,492
+offsets:1,791,1839,1283
+fx1
+bounds:3194,1206,841,803
+offsets:220,0,1839,1283
+fx2
+bounds:384,746,848,426
+offsets:991,16,1839,1283
+halo 1
+bounds:1847,1893,177,116
+offsets:12,12,201,140
+halo 2
+bounds:2,1854,239,155
+offsets:12,12,263,179
+halo 3
+bounds:819,756,557,262
+offsets:6,7,566,275
+hoshino_swim suit
+bounds:2844,2,1250,1235
+offsets:614,1186,1864,2421
+rotate:180
+hoshino_swim suitC
+bounds:2038,620,1389,1235
+offsets:10,707,1864,2421
+rotate:90
+hoshino_swim suitC2
+bounds:2033,178,505,1139
+offsets:874,0,1864,2421
+hoshino_swim suitC3
+bounds:2,591,369,663
+offsets:665,224,1864,2421
+sunglasses_face
+bounds:1647,174,321,144
+offsets:8,6,334,159
+sunglasses_head
+bounds:749,147,358,209
+offsets:11,8,376,226

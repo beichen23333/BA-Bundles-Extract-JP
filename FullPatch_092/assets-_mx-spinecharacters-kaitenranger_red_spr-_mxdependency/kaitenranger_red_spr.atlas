@@ -1,0 +1,9 @@
+kaitenranger_red_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.1
+halo
+bounds:1638,1525,436,146
+rotate:90
+kaitenranger_red
+bounds:2,2,1634,1959

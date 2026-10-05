@@ -1,0 +1,63 @@
+nonomi_spr.png
+	size: 2048, 2048
+	filter: Linear, Linear
+00_default
+	bounds: 893, 1771, 250, 223
+	rotate: 90
+01_normal
+	bounds: 893, 1771, 250, 223
+	rotate: 90
+02_respond
+	bounds: 1764, 363, 250, 221
+03_smile
+	bounds: 1275, 724, 251, 229
+04_embarassed
+	bounds: 1518, 1756, 250, 265
+05_serious
+	bounds: 2, 317, 250, 220
+06_shout
+	bounds: 984, 328, 250, 220
+07_calm smile 1
+	bounds: 2, 763, 250, 230
+08_calm smile 2
+	bounds: 1022, 775, 251, 230
+09_calm smile 3
+	bounds: 769, 816, 251, 230
+10_inocent
+	bounds: 1511, 382, 251, 222
+11_worry
+	bounds: 508, 469, 251, 222
+	rotate: 90
+12_bitter smile 1
+	bounds: 1006, 550, 250, 223
+13_bitter smile 2
+	bounds: 255, 498, 251, 222
+14_excuse
+	bounds: 1770, 1762, 251, 259
+15_boring
+	bounds: 1770, 1523, 251, 237
+16_trick 1
+	bounds: 1236, 279, 251, 219
+17_trick 2
+	bounds: 1258, 500, 251, 222
+18_disappointed 1
+	bounds: 732, 367, 250, 222
+19_disappointed 2
+	bounds: 2, 539, 251, 222
+eyeclose
+	bounds: 753, 591, 251, 223
+halo 1
+	bounds: 1827, 1306, 215, 179
+	rotate: 90
+halo 2
+	bounds: 958, 1328, 535, 419
+nonomi
+	bounds: 2, 721, 981, 1300
+	offsets: 46, 995, 1435, 2295
+nonomi_1
+	bounds: 797, 586, 1435, 1180
+	offsets: 0, 0, 1435, 2295
+	rotate: 270
+object_fronthair
+	bounds: 254, 283, 275, 213
+	rotate: 180

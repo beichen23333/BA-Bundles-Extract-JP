@@ -1,0 +1,62 @@
+NP0045_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.17
+00_default
+bounds:1114,1436,302,242
+rotate:90
+01_normal
+bounds:1569,815,302,241
+rotate:90
+02_respond
+bounds:1585,360,302,225
+03_smile
+bounds:1562,1727,302,252
+rotate:90
+04_embarrased
+bounds:1265,876,302,241
+05_serious
+bounds:1816,1727,302,206
+rotate:90
+06_shout
+bounds:1281,121,294,216
+07_difficult 1
+bounds:961,950,302,241
+08_difficult 2
+bounds:1562,1119,302,241
+rotate:90
+09_difficult 3
+bounds:542,98,302,214
+10_shy 1
+bounds:991,1193,302,241
+11_shy 2
+bounds:1281,575,302,238
+12_shout 2
+bounds:1585,137,302,221
+13_worry
+bounds:1281,339,302,223
+14_ calm smile
+bounds:1585,587,302,226
+15_trick 1
+bounds:977,111,302,214
+16_trick 2
+bounds:673,314,302,222
+17_boring
+bounds:977,327,302,222
+NP0045
+bounds:2,858,1355,1171
+offsets:0,1171,1365,2342
+NP0045C
+bounds:2,2,1365,1278
+offsets:0,0,1365,2342
+rotate:90
+eyeclose
+bounds:1562,1423,302,241
+rotate:90
+halo 1
+bounds:1358,1409,620,202
+rotate:90
+halo 2
+bounds:2,1433,269,144
+halo 3
+bounds:1805,1613,204,112

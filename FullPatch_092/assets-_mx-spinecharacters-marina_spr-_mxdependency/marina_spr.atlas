@@ -1,0 +1,51 @@
+marina_spr.png
+	size: 2048, 2048
+	filter: Linear, Linear
+01_nomal
+	bounds: 1773, 1164, 200, 133
+default
+	bounds: 1773, 1164, 200, 133
+02_respond
+	bounds: 406, 1862, 200, 134
+03_smile
+	bounds: 774, 1191, 200, 133
+04_embarassed
+	bounds: 1747, 1299, 200, 170
+05_serious
+	bounds: 204, 1857, 200, 139
+06_depressed
+	bounds: 464, 1006, 184, 131
+	rotate: 90
+07
+	bounds: 1259, 1343, 200, 170
+08
+	bounds: 1656, 1471, 200, 170
+09
+	bounds: 1456, 1007, 185, 137
+	rotate: 90
+10
+	bounds: 2, 1856, 200, 140
+11
+	bounds: 1263, 1194, 200, 147
+12
+	bounds: 572, 1192, 200, 147
+eyeclose
+	bounds: 1261, 1059, 193, 133
+front_hair
+	bounds: 597, 1088, 227, 101
+haro_01
+	bounds: 774, 1326, 312, 348
+haro_02
+	bounds: 1677, 1643, 319, 353
+haro_03
+	bounds: 1858, 1497, 144, 138
+	rotate: 90
+haro_04
+	bounds: 914, 1685, 150, 145
+marina
+	bounds: 2, 735, 1039, 1261
+	offsets: 182, 1115, 1221, 2376
+marina_1
+	bounds: 1014, 722, 834, 1274
+	offsets: 0, 0, 1221, 2376
+	rotate: 180

@@ -1,0 +1,46 @@
+juri_spr.png
+	size: 2048, 2048
+	filter: Linear, Linear
+00_default
+	bounds: 696, 485, 231, 168
+01_normal
+	bounds: 696, 485, 231, 168
+02_respond
+	bounds: 468, 490, 226, 173
+03_smile
+	bounds: 2, 617, 231, 190
+12_status
+	bounds: 2, 617, 231, 190
+04_embarrass
+	bounds: 1389, 363, 219, 153
+	rotate: 90
+05_serious
+	bounds: 2, 448, 223, 167
+06_depressed
+	bounds: 227, 405, 232, 157
+07_normal2
+	bounds: 235, 564, 231, 170
+08_smile2
+	bounds: 1156, 413, 231, 166
+09_smile3
+	bounds: 2, 1856, 231, 190
+10_smile4
+	bounds: 1853, 393, 193, 190
+11_shock
+	bounds: 1156, 581, 225, 178
+eyeclose
+	bounds: 988, 437, 231, 166
+	offsets: 0, 1, 231, 168
+	rotate: 90
+fronthair
+	bounds: 461, 374, 257, 114
+halo
+	bounds: 1351, 460, 642, 695
+	rotate: 270
+juri
+	bounds: 2, 654, 1652, 1392
+	offsets: 0, 1024, 1652, 2416
+juri_1
+	bounds: 1256, 1010, 748, 1036
+	offsets: 510, 0, 1652, 2416
+	rotate: 180

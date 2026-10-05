@@ -1,0 +1,52 @@
+NP0002_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.3
+00_default
+bounds:2,953,272,192
+01_normal
+bounds:2,953,272,192
+02_respond
+bounds:2,1446,272,196
+03_smile
+bounds:2,1644,273,198
+04_embarrass
+bounds:1751,533,272,182
+05_serious
+bounds:1365,1419,270,190
+rotate:90
+06_embarrassed
+bounds:1751,163,269,174
+07_embarrass 2
+bounds:1484,119,252,179
+08_smile 2
+bounds:2,1240,257,204
+Character Halo
+bounds:1320,300,429,415
+HairCover
+bounds:2,825,285,126
+azusa_swim_00
+bounds:2,114,1610,1728
+offsets:391,0,2001,1728
+azusa_swim_00C
+bounds:277,1771,77,71
+offsets:125,628,2001,1728
+azusa_swim_00C2
+bounds:1889,1451,101,391
+offsets:1781,73,2001,1728
+azusa_swim_00C3
+bounds:766,2,738,446
+offsets:34,679,2001,1728
+rotate:180
+azusa_swim_01
+bounds:1545,716,347,1126
+offsets:0,0,909,1126
+rotate:180
+azusa_swim_01C
+bounds:1141,1316,331,200
+offsets:578,624,909,1126
+eyeclose
+bounds:1751,339,256,192
+gas mask
+bounds:1049,1490,376,352
+offsets:19,0,395,352

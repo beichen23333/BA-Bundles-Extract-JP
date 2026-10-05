@@ -1,0 +1,103 @@
+NP0012_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.97
+00_default
+bounds:1154,581,196,137
+rotate:90
+01_normal
+bounds:1449,151,196,135
+02_respond
+bounds:205,78,196,134
+03_smile 1
+bounds:1219,139,197,134
+04_embarassed
+bounds:1845,20,196,131
+08_serious
+bounds:1647,19,196,131
+09_depressed
+bounds:1418,19,197,130
+10_fury 2
+bounds:1844,1112,202,152
+10_irritated
+bounds:1647,152,196,135
+11_shout
+bounds:1086,424,196,152
+12_fury
+bounds:1849,883,197,155
+13_smile 2
+bounds:818,197,197,140
+14_smile 3
+bounds:1017,141,200,132
+15
+bounds:1056,275,202,147
+15_shy
+bounds:601,70,196,133
+16
+bounds:1845,153,201,135
+16_hesitate
+bounds:403,75,196,133
+17
+bounds:799,60,192,135
+18
+bounds:2,31,192,134
+19
+bounds:2,305,202,147
+20
+bounds:683,1450,204,153
+21_panic
+bounds:614,205,202,137
+22
+bounds:410,210,202,137
+23
+bounds:2,167,201,136
+24
+bounds:1803,1759,201,164
+25
+bounds:1803,1594,192,163
+26
+bounds:115,1750,193,173
+27
+bounds:206,214,202,138
+28
+bounds:993,6,192,133
+NP0012
+bounds:1284,286,762,999
+offsets:289,1504,1619,2504
+rotate:180
+NP0012_copy
+bounds:2,337,1529,1586
+offsets:0,0,1619,2504
+eyeclose
+bounds:1187,2,189,135
+face_blood 1
+bounds:989,1794,80,129
+offsets:1,46,81,175
+face_blood 2
+bounds:428,1875,34,48
+flush
+bounds:1270,1725,198,94
+rotate:90
+fronthair
+bounds:1561,1245,388,318
+offsets:2,0,393,318
+halo_1
+bounds:672,1605,315,318
+halo_2
+bounds:1383,1565,418,358
+mask
+bounds:310,1734,189,141
+offsets:0,0,197,141
+rotate:90
+mask2
+bounds:310,1734,189,141
+offsets:0,0,197,141
+rotate:90
+small hair 01
+bounds:75,1653,38,270
+small hair 02
+bounds:2,1588,71,335
+sweat
+bounds:319,1912,6,11
+sweat 2
+bounds:310,1912,7,11

@@ -1,0 +1,15 @@
+NP0011_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.1
+NP0011
+bounds:168,339,1231,1503
+offsets:0,1663,1231,3174
+rotate:180
+NP0011_copy
+bounds:1271,2,765,1840
+offsets:413,0,1231,3174
+rotate:180
+NP0011_copy2
+bounds:2,191,245,1651
+offsets:126,79,1231,3174

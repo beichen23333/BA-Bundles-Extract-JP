@@ -1,0 +1,48 @@
+mutsuki_newyear_spr.png
+	size: 2048, 2048
+	filter: Linear, Linear
+00_default
+	bounds: 1643, 924, 261, 201
+	rotate: 180
+01_normal
+	bounds: 849, 924, 261, 201
+02_respond
+	bounds: 135, 803, 261, 200
+03_smile
+	bounds: 1375, 726, 246, 200
+	rotate: 180
+04_embarrass
+	bounds: 1112, 925, 261, 200
+05_serious
+	bounds: 2, 1472, 261, 194
+	rotate: 90
+06_depressed
+	bounds: 1112, 753, 261, 170
+07
+	bounds: 1375, 928, 266, 197
+08
+	bounds: 2, 1209, 261, 193
+	rotate: 90
+09
+	bounds: 1113, 1834, 261, 201
+Hair_Cover
+	bounds: 2, 1743, 87, 112
+	offsets: 5, 5, 97, 122
+Halo_01
+	bounds: 1855, 1733, 115, 51
+	offsets: 5, 5, 125, 61
+Halo_02
+	bounds: 1186, 1750, 193, 82
+	offsets: 5, 5, 203, 92
+Halo_03
+	bounds: 2, 1005, 386, 187
+	offsets: 5, 5, 396, 197
+eyeclose
+	bounds: 1834, 1786, 249, 201
+	rotate: 90
+mutsuki_newyear
+	bounds: 2, 763, 1190, 1272
+	offsets: 0, 904, 1190, 2176
+mutsuki_newyear_1
+	bounds: 1016, 1126, 1019, 909
+	offsets: 0, 0, 1190, 2176

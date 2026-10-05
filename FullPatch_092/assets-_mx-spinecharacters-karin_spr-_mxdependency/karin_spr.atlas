@@ -1,0 +1,31 @@
+karin_spr.png
+	size: 2048, 2048
+	filter: Linear, Linear
+00_default
+	bounds: 2, 1504, 173, 136
+01_nomal
+	bounds: 2, 1504, 173, 136
+02_respond
+	bounds: 1818, 1903, 173, 143
+03_smile
+	bounds: 1684, 1494, 173, 129
+04_embarassed
+	bounds: 1818, 1764, 176, 137
+05_serious
+	bounds: 2, 1642, 173, 139
+06_depressed
+	bounds: 1818, 1625, 174, 137
+eyeclose
+	bounds: 1508, 1589, 174, 136
+halo
+	bounds: 1510, 1727, 319, 306
+	rotate: 90
+karin
+	bounds: 2, 967, 1507, 1079
+	offsets: 449, 1218, 1956, 2297
+karin_1
+	bounds: 119, 16, 1472, 1228
+	offsets: 449, 0, 1956, 2297
+karin_2
+	bounds: 1409, 752, 637, 712
+	offsets: 0, 0, 1956, 2297

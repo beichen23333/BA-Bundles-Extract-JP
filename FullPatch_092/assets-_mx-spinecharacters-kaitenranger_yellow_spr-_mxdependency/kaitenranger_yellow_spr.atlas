@@ -1,0 +1,9 @@
+kaitenranger_yellow_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.1
+halo
+bounds:1638,1546,436,146
+rotate:90
+kaitenranger_yellow
+bounds:2,2,1634,1980
