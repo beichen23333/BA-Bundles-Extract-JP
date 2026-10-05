@@ -1,0 +1,286 @@
+Cherino_home.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.6
+B_Hat
+	bounds: 1986, 1846, 56, 51
+B_L_Hair_01_00
+	bounds: 1462, 477, 584, 620
+	rotate: 180
+B_L_Hair_01_01
+	bounds: 1692, 1172, 250, 337
+	rotate: 90
+B_L_Hair_02_00
+	bounds: 690, 452, 544, 505
+	rotate: 180
+B_L_Hair_02_01
+	bounds: 367, 279, 530, 586
+	offsets: 0, 1, 530, 587
+B_L_Hair_03
+	bounds: 1615, 212, 431, 265
+	rotate: 180
+B_L_Hair_04
+	bounds: 629, 490, 397, 309
+B_R_Hair
+	bounds: 279, 754, 286, 494
+	offsets: 0, 4, 290, 511
+	rotate: 90
+B_Ribborn_01
+	bounds: 747, 338, 138, 111
+	offsets: 0, 0, 139, 111
+B_Ribborn_02
+	bounds: 128, 86, 392, 156
+Bag
+	bounds: 1216, 771, 365, 392
+	rotate: 90
+Beard
+	bounds: 657, 1166, 130, 55
+	offsets: 4, 0, 136, 55
+Belt
+	bounds: 141, 150, 288, 154
+Body_01
+	bounds: 857, 1114, 459, 727
+	rotate: 270
+Body_02
+	bounds: 2, 938, 547, 283
+	offsets: 4, 0, 551, 283
+Button
+	bounds: 1233, 2014, 24, 32
+F_Ribborn
+	bounds: 1684, 1417, 87, 131
+F_Symbol
+	bounds: 1970, 1346, 76, 92
+Face
+	bounds: 1573, 967, 426, 465
+	offsets: 27, 0, 453, 465
+	rotate: 270
+Flush_01
+	bounds: 760, 175, 244, 78
+Flush_02
+	bounds: 771, 564, 266, 85
+Hardlight
+	bounds: 2, 1223, 853, 619
+Holster
+	bounds: 1878, 162, 168, 231
+	offsets: 0, 0, 168, 232
+Hoster_ring
+	bounds: 1127, 1812, 23, 30
+L_Arm_01
+	bounds: 133, 366, 236, 381
+L_Arm_02
+	bounds: 1193, 1556, 96, 101
+	offsets: 0, 0, 97, 101
+L_Arm_03
+	bounds: 319, 550, 152, 152
+	offsets: 5, 0, 157, 176
+L_B_Eyebrows_01
+	bounds: 2012, 1724, 34, 13
+L_B_Ribborn
+	bounds: 857, 1317, 100, 160
+	offsets: 1, 0, 101, 164
+L_Bagstrap
+	bounds: 1730, 1411, 243, 316
+	rotate: 270
+L_Eye_01
+	bounds: 857, 1756, 63, 86
+L_Eye_P_01
+	bounds: 1221, 1764, 22, 33
+	offsets: 0, 0, 22, 34
+L_Eye_P_02_0
+	bounds: 1204, 1887, 13, 14
+L_Eye_P_02_1
+	bounds: 1145, 1791, 18, 22
+L_Eye_P_03
+	bounds: 857, 1699, 45, 58
+L_Eye_White
+	bounds: 2, 244, 137, 127
+L_Eyebrows_01
+	bounds: 857, 1263, 106, 88
+L_Eyebrows_02
+	bounds: 198, 884, 92, 69
+L_Eyebrows_03
+	bounds: 1080, 823, 88, 73
+L_Eyebrows_04
+	bounds: 1822, 739, 86, 59
+L_Eyebrows_05
+	bounds: 406, 1024, 109, 80
+L_Eyecover_01
+	bounds: 465, 689, 148, 130
+	offsets: 33, 22, 181, 152
+L_Eyecover_02
+	bounds: 542, 1160, 117, 61
+	offsets: 11, 0, 128, 61
+L_Hand
+	bounds: 989, 186, 121, 154
+L_T_B_Ribborn_01
+	bounds: 1299, 1449, 73, 68
+	offsets: 1, 0, 74, 68
+L_T_B_Ribborn_02
+	bounds: 562, 605, 136, 81
+	offsets: 0, 0, 136, 89
+L_T_Hair_01
+	bounds: 982, 284, 454, 290
+	rotate: 180
+L_T_Hair_02
+	bounds: 584, 105, 395, 353
+	rotate: 180
+L_T_Ribborn_01
+	bounds: 1986, 1771, 40, 76
+	offsets: 1, 0, 41, 76
+L_T_Ribborn_02
+	bounds: 1033, 645, 83, 145
+L_Tears
+	bounds: 1986, 1736, 21, 14
+Legs
+	bounds: 890, 1561, 301, 281
+Mouse_01
+	bounds: 1237, 1484, 91, 84
+Mouse_02
+	bounds: 1335, 1440, 62, 21
+	offsets: 0, 0, 62, 22
+Mouse_03
+	bounds: 872, 801, 85, 43
+Mouse_04
+	bounds: 1232, 1981, 26, 31
+Mouse_05
+	bounds: 982, 799, 63, 50
+Mouse_06
+	bounds: 898, 1750, 23, 10
+Mouse_07
+	bounds: 1986, 1898, 59, 62
+Mouse_08
+	bounds: 1788, 1683, 73, 29
+Nose
+	bounds: 917, 1819, 25, 23
+R_Arm
+	bounds: 2, 704, 466, 177
+R_B_Eyebrows_01
+	bounds: 1204, 2015, 31, 5
+	rotate: 90
+R_B_Ribborn
+	bounds: 1165, 1672, 79, 181
+	offsets: 0, 1, 79, 182
+R_Bagstrap
+	bounds: 437, 142, 102, 266
+	offsets: 0, 35, 102, 301
+R_Eye_01
+	bounds: 1986, 1961, 58, 85
+	offsets: 0, 0, 60, 85
+R_Eye_P_01
+	bounds: 2026, 1790, 20, 33
+R_Eye_P_02_0
+	bounds: 1259, 2032, 13, 14
+R_Eye_P_02_1
+	bounds: 1219, 1741, 17, 21
+R_Eye_P_03
+	bounds: 2000, 1735, 46, 59
+R_Eye_White
+	bounds: 1468, 650, 113, 119
+R_Eyebrows_01
+	bounds: 1046, 792, 100, 69
+R_Eyebrows_02
+	bounds: 110, 889, 84, 48
+R_Eyebrows_03
+	bounds: 238, 860, 88, 48
+R_Eyebrows_04
+	bounds: 788, 1161, 79, 60
+	offsets: 0, 0, 79, 64
+R_Eyebrows_05
+	bounds: 2, 899, 106, 61
+R_Eyecover_01
+	bounds: 1857, 865, 122, 119
+	offsets: 12, 30, 155, 151
+R_Eyecover_02
+	bounds: 1853, 830, 104, 45
+	offsets: 0, 0, 117, 45
+R_Hand
+	bounds: 1204, 1863, 183, 44
+	rotate: 90
+R_T_Hair_01
+	bounds: 827, 210, 191, 350
+	rotate: 90
+R_T_Hair_02
+	bounds: 1431, 151, 184, 156
+	offsets: 0, 3, 184, 159
+R_Tears
+	bounds: 1204, 1855, 23, 12
+Snot
+	bounds: 2039, 2032, 6, 14
+Snowball
+	bounds: 1241, 1321, 725, 441
+	rotate: 90
+T_F_Hair
+	bounds: 1796, 1454, 232, 278
+T_Hat
+	bounds: 728, 846, 487, 391
+T_L_Eyebrows_01
+	bounds: 1192, 1660, 67, 29
+T_L_Eyebrows_02
+	bounds: 966, 1575, 69, 17
+T_L_Hair
+	bounds: 1581, 382, 222, 436
+	rotate: 90
+T_Light
+	bounds: 2, 1844, 1200, 202
+T_R_Eyebrows_01
+	bounds: 1684, 1642, 65, 19
+T_R_Eyebrows_02
+	bounds: 857, 1465, 61, 32
+T_R_Hair
+	bounds: 19, 331, 247, 408
+snow_00
+	bounds: 1610, 779, 240, 187
+snow_00_acc_00
+	bounds: 1577, 970, 64, 32
+snow_00_acc_01
+	bounds: 1684, 1663, 102, 49
+snow_00_acc_02
+	bounds: 1233, 1970, 17, 11
+snow_01
+	bounds: 1684, 1714, 300, 332
+snow_02_acc_00
+	bounds: 1640, 650, 162, 127
+snow_02_acc_01
+	bounds: 1342, 168, 180, 196
+snow_02_acc_02
+	bounds: 493, 321, 270, 181
+snow_02_acc_03
+	bounds: 1504, 315, 168, 202
+snow_02_acc_04
+	bounds: 517, 989, 168, 209
+	rotate: 90
+steam_00
+	bounds: 1146, 421, 204, 192
+steam_01
+	bounds: 1212, 615, 254, 161
+	offsets: 1, 1, 256, 163
+white
+	bounds: 1211, 2043, 4, 3
+
+Cherino_home_2.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.6
+02/B_Halo_01
+	bounds: 1444, 756, 530, 476
+	rotate: 90
+02/B_Halo_02
+	bounds: 1444, 1094, 528, 478
+	offsets: 2, 0, 530, 479
+	rotate: 90
+02/B_Halo_03
+	bounds: 1444, 1427, 557, 498
+	offsets: 0, 1, 557, 499
+	rotate: 90
+02/Backgroud
+	bounds: 2, 972, 1440, 1012
+02/F_Halo_01
+	bounds: 2, 753, 184, 217
+	offsets: 0, 3, 184, 220
+02/F_Halo_02
+	bounds: 1769, 1802, 182, 215
+	offsets: 0, 3, 184, 220
+	rotate: 270
+02/F_Halo_03
+	bounds: 1348, 730, 212, 245
+	rotate: 180
