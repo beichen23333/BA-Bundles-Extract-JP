@@ -1,0 +1,61 @@
+CH9998_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.36
+00_default
+bounds:1405,500,256,215
+01_normal
+bounds:1148,637,256,216
+02_respond
+bounds:1746,1000,256,219
+03_smile
+bounds:1785,1718,302,250
+rotate:90
+04_embarrass
+bounds:599,52,231,212
+05_serious
+bounds:703,266,245,207
+06_depressed
+bounds:1194,84,245,201
+07_serious2
+bounds:1202,287,242,211
+08_gekota 1
+bounds:1446,216,235,214
+09_gekota 2
+bounds:1509,969,235,250
+10_gekota 3
+bounds:1740,1221,292,250
+11_relax smile
+bounds:1706,1473,302,243
+12_dissatisfaction 1
+bounds:1683,223,242,207
+13_dissatisfaction 2
+bounds:950,190,242,204
+14_wink
+bounds:2,79,245,201
+rotate:90
+15
+bounds:979,396,222,239
+16
+bounds:1683,6,222,215
+17
+bounds:1667,432,223,238
+18
+bounds:1441,2,223,212
+Halo
+bounds:1419,672,458,295
+Halo_Blur
+bounds:1476,1551,469,307
+rotate:270
+R_hand_Weapon_ON_defualt
+bounds:534,693,453,1327
+eyeclose
+bounds:723,475,254,216
+front hair
+bounds:832,4,322,216
+mikoto
+bounds:989,855,749,1165
+offsets:49,1779,798,2944
+mikoto_1
+bounds:2,102,719,1918
+offsets:0,0,798,2944

@@ -1,0 +1,70 @@
+CH0291_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.05
+0_default
+bounds:1749,1400,250,150
+offsets:10,10,270,170
+rotate:90
+0_eye close
+bounds:1772,652,244,148
+offsets:10,10,264,168
+rotate:90
+10_embarassed 2
+bounds:1767,898,249,150
+offsets:10,10,269,170
+rotate:90
+11_embarassed 3
+bounds:1753,1149,249,150
+offsets:10,10,269,170
+rotate:90
+12_serious 2
+bounds:1229,1653,249,157
+offsets:10,10,269,177
+rotate:90
+1_normal
+bounds:705,1734,270,168
+2_respond
+bounds:1760,1652,250,153
+offsets:10,10,270,173
+rotate:90
+3_smile
+bounds:1750,371,249,138
+offsets:10,10,269,158
+4_embarassed
+bounds:977,1742,250,160
+offsets:10,10,270,180
+5_serious
+bounds:1742,511,249,139
+offsets:10,10,269,159
+6_depressed
+bounds:592,750,238,123
+offsets:10,10,258,143
+7_smile 2
+bounds:1905,1163,236,138
+offsets:10,10,256,158
+rotate:90
+8_smile 3
+bounds:2,651,239,135
+offsets:10,10,259,155
+rotate:90
+9_smile 4
+bounds:1901,1401,249,135
+offsets:10,10,269,155
+rotate:90
+CH0291
+bounds:538,2,745,1317
+offsets:605,1398,1354,2715
+rotate:90
+CH0291_2
+bounds:2,279,1082,1623
+offsets:5,961,1354,2715
+CH0291_3
+bounds:759,637,1012,1265
+offsets:81,3,1354,2715
+hair
+bounds:1068,1502,238,145
+offsets:10,10,258,165
+rotate:90
+halo
+bounds:2,2,597,450

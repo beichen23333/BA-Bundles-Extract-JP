@@ -1,0 +1,38 @@
+citizen_borot1_spr.png
+size:2048,2048
+filter:Linear,Linear
+scale:1.2
+00_default
+bounds:1788,1553,178,89
+01_normal
+bounds:1788,1553,178,89
+02_respond
+bounds:510,1626,191,89
+rotate:90
+03_smile
+bounds:207,1547,240,65
+04_embarassed 1
+bounds:2,1657,260,160
+05_serious
+bounds:225,1819,215,52
+06_depressed
+bounds:1788,1644,227,178
+rotate:90
+06_depressed copy
+bounds:264,1698,244,119
+07_pain
+bounds:264,1614,227,82
+08_pain2
+bounds:2,1564,203,91
+09_embarassed 2
+bounds:442,1819,214,52
+citizen_borot1_01
+bounds:1097,2,730,1099
+citizen_borot1_02
+bounds:2,315,787,1093
+rotate:90
+citizen_borot1_03
+bounds:658,1103,768,1128
+rotate:90
+eyeclose
+bounds:2,1841,221,30
